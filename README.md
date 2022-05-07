@@ -1,7 +1,7 @@
 # Crowd-Prediction
 Crowd prediction in gym using Random Forest Regressor
 <br/>
-Link to [DataSet](
+Link to [DataSet](https://raw.githubusercontent.com/SaiSwarup27/Crowd-Prediction/master/dataset/data.csv).
 
 > ## Predictions 
 <p align="center" width="100%">
